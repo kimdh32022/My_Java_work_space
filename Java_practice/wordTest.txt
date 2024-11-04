@@ -1,0 +1,14 @@
+banana,바나나
+book,책
+this,이것
+bottle,병
+house,집
+mouse,마우스
+apple,사과
+that,저것
+computer,컴퓨터
+car,차
+phone,전화기
+desk,책상
+pen,펜
+window,창문
